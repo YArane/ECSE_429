@@ -1,0 +1,9 @@
+<manager id="1">
+  <shoppingListItems id="2"/>
+  <items id="3">
+    <item id="4">
+      <name>Oranges</name>
+    </item>
+  </items>
+  <storeVisits id="5"/>
+</manager>
